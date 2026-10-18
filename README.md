@@ -1,6 +1,6 @@
 # CraftAttackSpawn 
 
-**CraftAttackSpawn** ist ein leichtgewichtiges, aber umfangreiches Minecraft-Plugin (Paper/Spigot), das klassische Features aus bekannten CraftAttack-Projekten auf deinen Server bringt.
+**CraftAttackSpawn** ist ein leichtgewichtiges, aber umfangreiches Minecraft-Plugin (Paper/Spigot), das klassische Features aus bekannten CraftAttack-Projekten auf deinen Server bringt. Minecraft Version: 26.3
 
 ---
 
