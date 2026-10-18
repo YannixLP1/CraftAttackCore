@@ -1,10 +1,10 @@
-# CraftAttackSpawn 🚀
+# CraftAttackSpawn 
 
 **CraftAttackSpawn** ist ein leichtgewichtiges, aber umfangreiches Minecraft-Plugin (Paper/Spigot), das klassische Features aus bekannten CraftAttack-Projekten auf deinen Server bringt.
 
 ---
 
-## 📋 Features
+##  Features
 
 * **Elytra Boost System:** Ermöglicht Raketen-Boosts beim Fliegen mit konfigurierbarer Stärke und temporärem Fallschaden-Schutz.
 * **Status-System:** Spieler können ihren eigenen Status im Chat und in der Tabliste anzeigen lassen (`/status`).
@@ -16,7 +16,7 @@
 
 ---
 
-## ⚙️ Befehle & Rechte
+##  Befehle & Rechte
 
 ### Befehle
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🔧 Konfiguration (`config.yml`)
+##  Konfiguration (`config.yml`)
 
 ```yaml
 settings:
